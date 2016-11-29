@@ -26,6 +26,5 @@
     "tests",
     "css",
     "*.html",
-    "src"
   ]
 }
